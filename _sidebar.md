@@ -35,5 +35,5 @@
   - [Xboot核心组件kobj技术详解](article-xboot-core-component-kobj.md)
   - [Xboot核心组件设备树源码解析](article-xboot-core-component-device-tree.md)
   
-- [AUDIO展示](AUDIO)
+- [AUDIO展示](AUDIO/README.md)
 
