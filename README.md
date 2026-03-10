@@ -1,6 +1,4 @@
-# 概要 <!-- {docsify-ignore} -->
-
-## 简介
+## 九鼎文档中心
 
 操作一个GPIO，需要仔细对照芯片手册，好繁琐；每换一个主控芯片，所有工作从头来过；想开发个现代点支持各种动效的UI，发现几乎是不可能的事情；各种协议栈有如天书一样，阅读都困难，何谈编写；虚拟机技术很流行，功能很强大，想自己移植个，可是困难重重；还是放开自己吧，让XBOOT来替你解决这些问题。XBOOT不仅仅是一款功能强大、可移植性强、代码复用率高的嵌入式系统bootloader，而且还是一款SOC片上系统应用软件执行引擎，无需复杂的操作系统，APP上电直接执行。一次编写，到处运行，不仅仅是个口号，而且还是XBOOT存在的唯一原因。
 
@@ -21,9 +19,6 @@
 
 ## 相关网址
 
-* [Xboot文档](https://xboot.github.io/xboot)
-* [Xboot源码](https://github.com/xboot/xboot)
-* [交叉工具链](http://pan.baidu.com/s/1dDtssIt)
-* [Eclipse集成开发环境](http://pan.baidu.com/s/1i3ImG0d)
-* [XBOOT官方QQ群658250248，大佬聚集，请踊跃加入(2000人)](https://jq.qq.com/?_wv=1027&k=5BOkXYO)
+* [九鼎文档](https://wiki.9tripod.com)
+* [九鼎官网](https://www.9tripod.com)
 
