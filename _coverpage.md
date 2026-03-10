@@ -4,4 +4,4 @@
 
 
 [九鼎文档](https://wiki.9tripod.com)
-[开始](#简介)
+[开始](#README)
